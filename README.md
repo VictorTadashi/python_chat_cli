@@ -22,7 +22,7 @@
 [Funcionalidades](#-funcionalidades) •
 [Como funciona](#-como-funciona) •
 [Instalação](#-instalação) •
-[Comandos](#%EF%B8%8F-comandos) •
+[Comandos](#%EF%B8%8F-comandos-1) •
 [Roadmap](#%EF%B8%8F-roadmap)
 
 </div>
