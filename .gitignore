@@ -1,0 +1,15 @@
+# Segredos
+.env
+
+# Ambiente virtual
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Banco de dados local (vai existir na Fase 4)
+*.db
+
+# Configurações do PyCharm
+.idea/
