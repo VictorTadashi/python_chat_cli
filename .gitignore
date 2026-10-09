@@ -8,7 +8,7 @@
 __pycache__/
 *.pyc
 
-# Banco de dados local (vai existir na Fase 4)
+# Banco de dados local
 *.db
 
 # Configurações do PyCharm
